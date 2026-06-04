@@ -1,25 +1,21 @@
 LangGraph
 Fundamentals
-What is state?
-Why is state the most important object in LangGraph?
-How does LangGraph differ from a simple prompt chain?
+1. What is state?
+2. Why is state the most important object in LangGraph?
+3. How does LangGraph differ from a simple prompt chain?
 Nodes
-What should a node do?
-What should a node not do?
-Why should nodes be small and deterministic?
+1. What should a node do?
+2. What should a node not do?
+3. Why should nodes be small and deterministic?
 State Management
-What belongs in graph state?
-What should not be stored in graph state?
-How can state become a bottleneck?
+1. What belongs in graph state?
+2. What should not be stored in graph state?
+3. How can state become a bottleneck?
 Persistence
-What is a checkpointer?
-Why would you persist graph state?
-How would you resume a workflow after a crash?
-Human in the Loop
-What is an interrupt?
-When should a workflow stop and request approval?
-What actions should never happen without approval?
+1. What is an interrupt?
+2. When should a workflow stop and request approval?
+3. What actions should never happen without approval?
 Multi-Agent
-When should you create another agent?
-When should you NOT create another agent?
-Why do many multi-agent systems become slower rather than smarter?
+1. When should you create another agent?
+2. When should you NOT create another agent?
+3. Why do many multi-agent systems become slower rather than smarter?
